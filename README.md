@@ -1,5 +1,8 @@
 # Space_titanic
-Applied machine learning models to predict passenger disappearance 
+
+This data set is taken from the kaggle space titanic data set link: https://www.kaggle.com/competitions/spaceship-titanic/overview
+
+Applied machine learning models to predict passenger disappearance.
 
 In this project, my task is to predict whether a passenger was transported to an alternate dimension during the Spaceship Titanic's collision with the spacetime anomaly. To help you make these predictions, you're given a set of personal records recovered from the ship's damaged computer system.
 

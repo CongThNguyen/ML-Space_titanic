@@ -4,13 +4,13 @@ This data set is taken from the kaggle space titanic data set link: https://www.
 
 Applied machine learning models to predict passenger disappearance.
 
-In this project, my task is to predict whether a passenger was transported to an alternate dimension during the Spaceship Titanic's collision with the spacetime anomaly. To help you make these predictions, you're given a set of personal records recovered from the ship's damaged computer system.
+In this project, my task is to predict whether a passenger was transported to an alternate dimension during the Spaceship Titanic's collision with the spacetime anomaly. To with the prediction, a set of personal records recovered from the ship's damaged computer system is given.
 
 File and Data Field Descriptions:
 
-train.csv - Personal records for about two-thirds (~8700) of the passengers, to be used as training data.
+*train.csv - Personal records for about two-thirds (~8700) of the passengers, to be used as training data.
 
-test.csv - Personal records for the remaining one-third (~4300) of the passengers, to be used as test data. Your task is to predict the value of Transported for the passengers in this set.
+*test.csv - Personal records for the remaining one-third (~4300) of the passengers, to be used as test data. Your task is to predict the value of Transported for the passengers in this set.
 
 * `PassengerId` - A unique Id for each passenger. Each Id takes the form gggg_pp where gggg indicates a group the passenger is travelling with and pp is their number within the group. People in a group are often family members, but not always.
  

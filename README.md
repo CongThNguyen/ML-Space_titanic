@@ -2,7 +2,7 @@
 
 This data set is taken from the kaggle space titanic data set link: https://www.kaggle.com/competitions/spaceship-titanic/overview
 
-In essence, this project is completed. However it is not yet optimized due to the fact that model accuracy can still be improved with different feature engineering techniques.
+In essence, this project is completed. However it is not yet optimized due to the fact that model accuracy can still be improved with different feature engineering techniques, parameter tuning and the different choice of the machine learning algorithms.
 
 Applied machine learning models to predict passenger disappearance.
 
